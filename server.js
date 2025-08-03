@@ -98,4 +98,3 @@ app.use((err,req,res,next)=>{
 })
 //  Start Server
  app.listen(3007,()=>console.log(`Server in Running`))
-//app.listen(PORT, ()=>{console.log(`Server running on port ${PORT}`)})
