@@ -50,8 +50,9 @@ Set your own MongoDB connection string in `.env`:
 
 ```env
 MONGODB_URI=your_mongodb_connection_string
-PORT=3007
 ```
+
+The current server listens on port `3007`.
 
 Start the API:
 
